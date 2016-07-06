@@ -1,3 +1,6 @@
+# Python program to find the factorial of a number provided by the user.
+
+# take input from the user
 num = int(input("Enter a number: "))
 factorial = 1
 
