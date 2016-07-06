@@ -8,4 +8,4 @@ def reverse(string):
     return rev
  
  
-print(reverse("any string"))
+print(reverse("string"))
